@@ -1,8 +1,22 @@
 [
   {
+    "active": false,
+    "title": "Scheduled Power Interruption Advisory",
+    "message": "NGCP and LANECO will conduct a scheduled power interruption from 8:00 A.M. to 5:00 P.M. (9 Hours) for the annual maintenance of the Aurora-Kapatagan 69 KV line and various ride-on activities including pole replacement and line clearing.",
+    "date": "June 20, 2026"
+  },
+{
     "active": true,
     "title": "Maayong Adlaw from N'RTECH! 👋",
     "message": "Good day to all our valued clients! Thank you for trusting N'RTECH Internet Services. We hope you are having a wonderful day. Kung naa mo'y kailangan or if you need help jud with your connection, please don't hesitate to message us directly so we can assist you right away!",
-    "date":
+    "date": today
+  }, 
+  {
+    "active": false, 
+    "title": "N'RTECH Service Advisory: Internet Restored",
+    "message": "Internet service has been successfully restored following an outage caused by earlier LANECO clearing operations. Our staff worked an overtime shift to ensure your connection is back online before our Sunday day off.",
+    "date": "June 20, 2026"
   }
 ]
+
+
